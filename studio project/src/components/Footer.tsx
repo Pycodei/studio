@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <h3 className="text-xl font-serif font-bold mb-4">
-              Eternal <span className="text-accent">Moments</span>
+              Pushpa <span className="text-accent">Wedding Studio</span>
             </h3>
             <p className="text-muted-foreground text-sm">
               Capturing the magic of your special day with timeless elegance and
@@ -44,22 +44,22 @@ const Footer = () => {
             <h4 className="font-semibold mb-4">Get in Touch</h4>
             <div className="space-y-3">
               <a
-                href="tel:+1234567890"
+                href="tel:+919632917041"
                 className="flex items-center text-sm text-muted-foreground hover:text-accent transition-smooth"
               >
                 <Phone size={16} className="mr-2" />
-                +1 (234) 567-890
+                +91 (963) 2917041
               </a>
               <a
-                href="mailto:hello@eternalmoments.com"
+                href="mailto:sameerpandey2063@gmail.com"
                 className="flex items-center text-sm text-muted-foreground hover:text-accent transition-smooth"
               >
                 <Mail size={16} className="mr-2" />
-                hello@eternalmoments.com
+                sameerpandey2063@gmail.com
               </a>
               <div className="flex space-x-4 pt-2">
                 <a
-                  href="https://instagram.com"
+                  href="https://www.instagram.com/prabinsharma.961?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-muted-foreground hover:text-accent transition-smooth"
@@ -68,7 +68,7 @@ const Footer = () => {
                   <Instagram size={20} />
                 </a>
                 <a
-                  href="https://facebook.com"
+                  href="https://www.facebook.com/prabinsharma.25"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-muted-foreground hover:text-accent transition-smooth"
@@ -82,7 +82,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-border mt-8 pt-8 text-center text-sm text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} Eternal Moments. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Pushpa Wedding Studio. All rights reserved.</p>
         </div>
       </div>
     </footer>
